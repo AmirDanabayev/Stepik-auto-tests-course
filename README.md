@@ -8,3 +8,4 @@ Learn Git Branching
 Changing the latest Git commit message:
 git commit --amend -m "New message"
 git push --force (это можно не писать repository-name branch-name)
+
